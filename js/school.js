@@ -214,7 +214,6 @@ $(document).ready(function() {
 
 function getWeekDay() {
   var day = new Date().getDay();
-  console.log([day]);
   return day;
 }
 
