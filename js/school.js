@@ -62,15 +62,15 @@ var full_week = [
     new Couple(),
     new Couple(),
     new Couple([
+      new Lesson("Правовое обеспечение", "610ВЦ")
+    ]),
+    new Couple([
       new Lesson("Системы и сети", "610ВЦ")
     ]),
     new Couple([
       new Lesson("1п. Английский", "104"),
       new Lesson("2п. Базы данных", "610ВЦ")
     ], true),
-    new Couple([
-      new Lesson("Правовое обеспечение", "610ВЦ")
-    ]),
     new Couple()
   ],
   [ // вторник
